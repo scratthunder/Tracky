@@ -12,6 +12,7 @@
 
 - (void)mainViewDidLoad
 {
+    NSLog(@"master blubb");
 }
 
 @end
